@@ -42,7 +42,6 @@ function App() {
         setMovie(singleMovie);
   
         setReviews(singleMovie.reviewIds);
-        
     } 
     catch (error) 
     {
